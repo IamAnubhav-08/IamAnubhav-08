@@ -16,7 +16,7 @@ Feel free to connect with me!
 # ``` My Statitics ```
 
 <div class='container'>
-<img style="height: auto; width: 55%;" class="img" src="https://github-readme-stats.vercel.app/api?username=IamAnubhav08&show_icons=true&theme=radical" />
+<img style="height: auto; width: 55%;" class="img" src=https://github-readme-stats.vercel.app/api?username=IamAnubhav-08&show_icons=true&theme=radical#gh-dark-mode-only" />
 &nbsp;
 &nbsp;
 <img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IamAnubhav-08&theme=blue-green&langs_count=8&layout=compact" /></div>
