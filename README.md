@@ -13,5 +13,6 @@ Feel free to connect with me!
   * LinkedIn - [Anubhav Santra's LinkedIn](https://www.linkedin.com/in/anubhav-santra-261965172/)
   * Github - [Anubhav Santra's Github](https://github.com/IamAnubhav-08)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IamAnubhav-08&layout=compact)
 
-  
+![Anubhav's GitHub stats](https://github-readme-stats.vercel.app/api?username=IamAnubhav-08&show_icons=true&theme=radical)
