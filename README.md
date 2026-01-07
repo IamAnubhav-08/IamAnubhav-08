@@ -14,11 +14,51 @@ Feel free to connect with me!
   * LinkedIn - [Anubhav Santra's LinkedIn](https://www.linkedin.com/in/anubhav-santra-261965172/)
   * Github - [Anubhav Santra's Github](https://github.com/IamAnubhav-08)
 
-# ``` My Statitics ```
+## 📊 GitHub Stats & Activity
 
-<div class='container'>
-<img style="height: auto; width: 55%;" class="img" src=https://github-readme-stats.vercel.app/api?username=IamAnubhav-08&show_icons=true&theme=radical#gh-dark-mode-only" />
-&nbsp;
-&nbsp;
-<img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IamAnubhav-08&theme=blue-green&langs_count=8&layout=compact" /></div>
+<div align="center">
+
+<!-- Profile Stats -->
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=IamAnubhav-08&show_icons=true&theme=radical&hide_border=true" />
+
+<!-- Top Languages -->
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IamAnubhav-08&layout=compact&theme=radical&hide_border=true" />
+
+<!-- Streak Stats -->
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=IamAnubhav-08&theme=radical&hide_border=true" />
+
 </div>
+
+---
+
+## 🏆 GitHub Trophies
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=IamAnubhav-08&theme=radical&no-frame=true&no-bg=false&margin-w=4" />
+</div>
+
+---
+
+## 🐍 Contribution Snake
+<div align="center">
+<img src="https://raw.githubusercontent.com/IamAnubhav-08/IamAnubhav-08/output/github-contribution-grid-snake.svg" />
+</div>
+
+---
+
+## 🔥 Activity Graph
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=IamAnubhav-08&theme=react-dark&hide_border=true" />
+</div>
+
+---
+
+## 📌 Featured Repositories
+<div align="center">
+<a href="https://github.com/IamAnubhav-08/some-repo">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=IamAnubhav-08&repo=some-repo&theme=radical&hide_border=true" />
+</a>
+<a href="https://github.com/IamAnubhav-08/another-repo">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=IamAnubhav-08&repo=another-repo&theme=radical&hide_border=true" />
+</a>
+</div>
+
