@@ -1,8 +1,9 @@
 ### Hi there 👋
 
 # ```About me - ```
-* 👨‍🎓 I am a final year undergraduate student at Jadavpur University, 🇮🇳
-* 💻 Currently working on Deep learning algorithms and Computer vision in the field of Materials Science.
+* 👨‍🎓 AI Engineer @ZS Associates, Pune, 🇮🇳
+* 👨‍🎓 Engineering @Jadavpur University, Batch of 2024, 🇮🇳
+* 💻 Currently working on GenAI, Agents, Knowledge Graphs, Retrieval Augmented Generation(RAG) using LangGraph, Langchain, etc.
 * 👨‍💻 Keenly interested in CS Algorithms, Machine Learning and AI.
 * Looking to collaborate on projects involving advanced deep learning models.
 
