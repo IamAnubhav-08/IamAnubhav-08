@@ -18,37 +18,41 @@ Feel free to connect with me!
 
 <div align="center">
 
-<!-- Profile Stats -->
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=IamAnubhav-08&show_icons=true&theme=radical&hide_border=true" />
+<!-- Main Stats -->
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=IamAnubhav-08&show_icons=true&theme=radical&hide_border=true&count_private=true" />
 
 <!-- Top Languages -->
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IamAnubhav-08&layout=compact&theme=radical&hide_border=true" />
 
 <!-- Streak Stats -->
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=IamAnubhav-08&theme=radical&hide_border=true" />
+<img height="170" src="https://streak-stats.demolab.com?user=IamAnubhav-08&theme=radical&hide_border=true" />
 
 </div>
+
 
 ---
 
 ## 🏆 GitHub Trophies
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=IamAnubhav-08&theme=radical&no-frame=true&no-bg=false&margin-w=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=IamAnubhav-08&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
 </div>
+
 
 ---
 
 ## 🐍 Contribution Snake
 <div align="center">
-<img src="https://raw.githubusercontent.com/IamAnubhav-08/IamAnubhav-08/output/github-contribution-grid-snake.svg" />
+ <img src="https://raw.githubusercontent.com/IamAnubhav-08/IamAnubhav-08/output/github-contribution-grid-snake.svg" />
 </div>
+
 
 ---
 
 ## 🔥 Activity Graph
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=IamAnubhav-08&theme=react-dark&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IamAnubhav-08&theme=react-dark&hide_border=true" />
 </div>
+
 
 ---
 
