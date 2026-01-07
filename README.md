@@ -56,13 +56,4 @@ Feel free to connect with me!
 
 ---
 
-## 📌 Featured Repositories
-<div align="center">
-<a href="https://github.com/IamAnubhav-08/some-repo">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=IamAnubhav-08&repo=some-repo&theme=radical&hide_border=true" />
-</a>
-<a href="https://github.com/IamAnubhav-08/another-repo">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=IamAnubhav-08&repo=another-repo&theme=radical&hide_border=true" />
-</a>
-</div>
 
