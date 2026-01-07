@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # ```About me - ```
-* 👨‍🎓 AI Engineer @ZS Associates, Pune, 🇮🇳
+* 🤖 AI Engineer @ZS Associates, Pune, 🇮🇳
 * 👨‍🎓 Engineering @Jadavpur University, Batch of 2024, 🇮🇳
 * 💻 Currently working on GenAI, Agents, Knowledge Graphs, Retrieval Augmented Generation(RAG) using LangGraph, Langchain, etc.
 * 👨‍💻 Keenly interested in CS Algorithms, Machine Learning and AI.
